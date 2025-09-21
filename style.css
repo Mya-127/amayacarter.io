@@ -16,7 +16,7 @@ a {
     text-decoration: none;
 }
 
-a:visited {
+a:visited, a:link, a:active {
     text-decoration: none;
     color: black;
     text-align: center;
@@ -54,4 +54,5 @@ ul {
     list-style-position: inside;
     list-style-type: none;
     text-align: center;
+
 }
